@@ -14,6 +14,7 @@ A comprehensive digital platform for managing campus clubs, members, events, and
 - [Configuration](#configuration)
 - [API Endpoints](#api-endpoints)
 - [Troubleshooting](#troubleshooting)
+- [Screens](#screens)
 
 ## Features
 
@@ -521,6 +522,23 @@ The frontend API endpoint is configured in `lib/config/api_config.dart`. Update 
 - Try accessing `http://127.0.0.1/phpmyadmin` instead of `localhost`
 - Clear browser cache and cookies
 - Check XAMPP error logs in `xampp/apache/logs/error.log`
+
+## Screens
+
+<img width="780" height="1768" alt="admin_dashboard" src="https://github.com/user-attachments/assets/69845a9b-097d-496a-bcbd-6b45c2360078" />
+<img width="780" height="3242" alt="club_executive_dashboard" src="https://github.com/user-attachments/assets/18e19649-16ac-4bed-b831-2421741bd5b1" />
+<img width="780" height="1768" alt="club_management_for_admins" src="https://github.com/user-attachments/assets/e56865f2-7b41-4c71-86c0-a2f3043ef984" />
+<img width="780" height="1768" alt="financial_report_viewer" src="https://github.com/user-attachments/assets/be9bcbde-2be0-40e8-b831-d5a8b993ee21" />
+<img width="780" height="2092" alt="financial_report_generation" src="https://github.com/user-attachments/assets/afb9b734-8b33-4b0c-923c-8e444b47b2e3" />
+<img width="780" height="1768" alt="membership_status_management" src="https://github.com/user-attachments/assets/5ac8964b-baaa-4e6b-a745-9c6356b7a01b" />
+<img width="780" height="1768" alt="notification_settings_screen" src="https://github.com/user-attachments/assets/ea3e7057-029f-4819-bc94-7a7335c26806" />
+<img width="780" height="2562" alt="user_profile_management" src="https://github.com/user-attachments/assets/14ddd7bd-e04b-438f-9a98-00df2156af98" />
+<img width="780" height="1954" alt="notification_view_screen" src="https://github.com/user-attachments/assets/c6191acb-1202-455e-a266-c9c757aac88b" />
+<img width="780" height="1768" alt="images" src="https://github.com/user-attachments/assets/4fab823e-57c0-4d17-b2fa-2cbe20a05610" />
+<img width="780" height="1768" alt="broadcast_message_screen" src="https://github.com/user-attachments/assets/e428861b-7e72-4d12-88b2-51579142477a" />
+<img width="780" height="1768" alt="club_executive_club_management" src="https://github.com/user-attachments/assets/f9415c25-f438-46dd-9151-dad813db790c" />
+<img width="780" height="2422" alt="financial_overview_screen" src="https://github.com/user-attachments/assets/addd367b-7fdf-4a92-9a93-9e23b89dbcb1" />
+
 
 ## Development Tips
 
